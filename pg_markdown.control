@@ -1,0 +1,5 @@
+# pg_markdown extension
+comment = 'Markdown datatype and processing'
+default_version = '0.1'
+module_pathname = '$libdir/pg_markdown'
+relocatable = true
